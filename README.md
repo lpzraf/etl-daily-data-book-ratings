@@ -7,3 +7,7 @@ Project to practice:
 - loading to Cloud Storage
 - creating a dimensional model (Kimball)
 - loading to BigQuery
+
+### Data Modeling
+
+![Data Model/ERD](data-modeling.png)
