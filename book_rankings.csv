@@ -1,0 +1,51 @@
+book_ranking,book_title,book_price,date
+#1,"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in…",$70.66,2022-01-05
+#2,Lean Analytics: Use Data to Build a Better Startup Faster (Lean (O'Reilly)),$24.82,2022-01-05
+#3,Discovering Statistics Using R,$47.17,2022-01-05
+#4,Now You See It: Simple Visualization Techniques for Quantitative Analysis,$20.00,2022-01-05
+#5,Data Points: Visualization That Means Something,$26.13,2022-01-05
+#6,"Visualize This: The FlowingData Guide to Design, Visualization, and Statistics",$26.71,2022-01-05
+#7,Keeping Up with the Quants: Your Guide to Understanding and Using Analytics,$20.49,2022-01-05
+#8,Head First SQL: Your Brain on SQL -- A Learner's Guide,$34.98,2022-01-05
+#9,Introduction to Data Mining (2nd Edition) (What's New in Computer Science),$92.56,2022-01-05
+#10,Star Schema The Complete Reference,$26.32,2022-01-05
+#11,NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence,$39.99,2022-01-05
+#12,"Big Data: A Revolution That Will Transform How We Live, Work, and Think",$9.99,2022-01-05
+#13,Learning From Data,$16.02,2022-01-05
+#14,The Art of R Programming: A Tour of Statistical Software Design,$27.10,2022-01-05
+#15,Star Schema The Complete Reference,$19.30,2022-01-05
+#16,Big Data For Dummies,$18.27,2022-01-05
+#17,Introduction to Data Mining,$138.66,2022-01-05
+#18,SQL Cookbook: Query Solutions and Techniques for Database Developers (Cookbooks (O'Reilly)),$6.90,2022-01-05
+#19,The Workflow of Data Analysis Using Stata,$55.37,2022-01-05
+#20,Learning SQL: Master SQL Fundamentals,$11.08,2022-01-05
+#21,"High Performance MySQL: Optimization, Backups, and Replication",$64.99,2022-01-05
+#22,"The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in…",$69.99,2022-01-05
+#23,"Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions",$53.98,2022-01-05
+#24,Programming Collective Intelligence: Building Smart Web 2.0 Applications,$24.99,2022-01-05
+#25,Exploring Splunk,$25.00,2022-01-05
+#26,Infographics,$45.00,2022-01-05
+#27,Excel Dashboards and Reports,$28.21,2022-01-05
+#28,Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!),$55.52,2022-01-05
+#29,"Mastering Oracle SQL, 2nd Edition",$29.20,2022-01-05
+#30,"Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",$30.51,2022-01-05
+#31,"The Art of Explanation: Making your Ideas, Products, and Services Easier to Understand",$20.33,2022-01-05
+#32,Delivering Business Intelligence with Microsoft SQL Server 2012 3/E,$1.45,2022-01-05
+#33,NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence,$19.79,2022-01-05
+#34,The Human Face of Big Data,$24.95,2022-01-05
+#35,"Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",$31.98,2022-01-05
+#36,The R Book,$83.96,2022-01-05
+#37,Oracle PL/SQL Best Practices: Write the Best PL/SQL Code of Your Life,$29.99,2022-01-05
+#38,Microsoft SQL Server 2012 T-SQL Fundamentals,$49.99,2022-01-05
+#39,Pro SQL Server 2012 BI Solutions (Expert's Voice in SQL Server),$74.99,2022-01-05
+#40,Learning Spark: Lightning-Fast Big Data Analysis,$2.04,2022-01-05
+#41,Beautiful Visualization: Looking at Data through the Eyes of Experts (Theory in Practice),$45.99,2022-01-05
+#42,R in a Nutshell: A Desktop Quick Reference (In a Nutshell (O'Reilly)),$45.28,2022-01-05
+#43,SQL in a Nutshell: A Desktop Quick Reference Guide (In a Nutshell (O'Reilly)),$29.64,2022-01-05
+#44,Microsoft Business Intelligence For Dummies,$3.91,2022-01-05
+#45,SQL in a Nutshell: A Desktop Quick Reference (In a Nutshell (O'Reilly)),$35.99,2022-01-05
+#46,Visualizing Data,$74.00,2022-01-05
+#47,Wrench in the System: What's Sabotaging Your Business Software and How You Can Release the Power to Innovate,$41.93,2022-01-05
+#48,Developing Essbase Applications: Advanced Techniques for Finance and IT Professionals,$15.24,2022-01-05
+#49,Patterns of Data Modeling (Emerging Directions in Database Systems and Applications),$64.95,2022-01-05
+#50,Microsoft Access 2010 Inside Out,$5.00,2022-01-05
