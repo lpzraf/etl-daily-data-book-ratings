@@ -18,3 +18,7 @@ This project consists of:
 ### Transferring Files Securely To Remote Compute Engine VM with SFTP
 
 ![SFTP](sftp-ref.png)
+
+### Loading Files VM To Cloud Storage Bucket
+
+![cloud-storage](cloud-storage.png)
