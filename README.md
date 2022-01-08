@@ -19,6 +19,6 @@ This project consists of:
 
 ![SFTP](sftp-ref.png)
 
-### Loading Files VM To Cloud Storage Bucket
+### Loading Files from VM To Cloud Storage Bucket
 
 ![cloud-storage](cloud-storage.png)
