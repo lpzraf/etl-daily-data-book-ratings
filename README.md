@@ -14,3 +14,7 @@ This project consists of:
 ### Data Modeling
 
 ![Data Model/ERD](data-modeling.png)
+
+### Transferring Files Securely To Remote Compute Engine VM with SFTP
+
+![SFTP](sftp.png)
