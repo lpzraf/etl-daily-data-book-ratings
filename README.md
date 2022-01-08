@@ -16,9 +16,15 @@ This project consists of:
 ![Data Model/ERD](data-modeling.png)
 
 ### Transferring Files Securely To Remote Compute Engine VM with SFTP
+Running `sftp rafaellopez@vm external ip` to connect to the remote instance then `put books.csv calendar_date.csv book_rankings.csv` to transferr local files to the remote system. 
 
 ![SFTP](sftp-ref.png)
 
 ### Loading Files from VM To Cloud Storage Bucket
+Running `gsutil cp books.csv calendar_date.csv book_rankings.csv gs://rl-etl-daily-data-book-rankings-storage`
 
 ![cloud-storage](cloud-storage.png)
+
+
+### Learnings
+- I didnt really need to send files to the VM, I could have loaded files straight to Cloud Storage.
