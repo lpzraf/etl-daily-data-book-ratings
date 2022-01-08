@@ -4,3 +4,8 @@ venv/
 
 # VisualStudioCode
 .vscode/
+
+# Images
+cloud-stoarge.png
+data-modeling.png
+sftp-ref.png
