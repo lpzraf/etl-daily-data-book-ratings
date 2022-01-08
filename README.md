@@ -17,4 +17,4 @@ This project consists of:
 
 ### Transferring Files Securely To Remote Compute Engine VM with SFTP
 
-![SFTP](sftp.png)
+![SFTP](sftp-ref.png)
