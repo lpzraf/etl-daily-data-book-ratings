@@ -25,7 +25,7 @@ Running `gsutil cp books.csv calendar_date.csv book_rankings.csv gs://rl-etl-dai
 
 ![cloud-storage](cloud-storage.png)
 
-### BigQuery Tables Is The Final Destination
+### BigQuery Tables Are The Final Destination
 
 ![BigQuery table](bq.png)
 
