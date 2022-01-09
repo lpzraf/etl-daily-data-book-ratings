@@ -33,3 +33,4 @@ Running `gsutil cp books.csv calendar_date.csv book_rankings.csv gs://rl-etl-dai
 ### Learnings
 - I didnt really need to send files to the VM, I could have loaded files straight to Cloud Storage.
 - Need to learn more about wiring within GCP and the different apis/services.
+- This is a basic mock project so I didn't include automation for pulling data on a schedule but I plan to work on a more challenging project to include orchestration tools.
