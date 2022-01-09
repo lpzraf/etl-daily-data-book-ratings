@@ -25,6 +25,10 @@ Running `gsutil cp books.csv calendar_date.csv book_rankings.csv gs://rl-etl-dai
 
 ![cloud-storage](cloud-storage.png)
 
+### BigQuery Tables Is The Final Destination
+
+![BigQuery table](bq.png)
+
 
 ### Learnings
 - I didnt really need to send files to the VM, I could have loaded files straight to Cloud Storage.
