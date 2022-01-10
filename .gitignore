@@ -4,3 +4,13 @@ venv/
 
 # VisualStudioCode
 .vscode/
+
+
+# Other references:
+# - https://www.freecodecamp.org/news/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd/
+# - https://stackoverflow.com/questions/62276385/transferring-data-from-vm-instances-to-bigquery-in-gcp
+# - https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server
+# - https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-csv#bq_1
+# - https://cloud.google.com/compute/docs/ssh-in-browser
+# - https://www.cloudbooklet.com/6-ways-to-transfer-files-in-google-cloud-platform/
+# - https://superuser.com/questions/969666/copy-files-from-google-compute-engine-instance-to-google-cloud-storage-bucket
